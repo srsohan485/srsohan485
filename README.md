@@ -23,7 +23,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayedur-rahman-sohan)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@ComputerConcepts)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayedur-rahman-sohan) [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@ComputerConcept-t8x) [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sayedur.rahman.sohan.2024)
+
 
 Let's grow together! 🚀
