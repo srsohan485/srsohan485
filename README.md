@@ -3,31 +3,22 @@
 ### Android Developer | Java | Future Flutter Developer 🚀
 
 - 🔭 I'm currently working on **Project Master Sohan** Series
-- 📚 I'm currently learning **Java & Android Development**
+- 📚 I'm currently learning **Flutter & Android Development**
 - 🤝 I'm looking to collaborate on **Android App Projects**
-- 💬 Ask me about **Android Development, Java, C++**
+- 💬 Ask me about **Android Development, Java,Flutter**
 - 🌐 How to reach me: [LinkedIn - Sayedur Rahman Sohan](https://www.linkedin.com/in/sohan-cse/)
+- [Facebook - Sayedur Rahman Sohan](https://www.facebook.com/sayedur.rahman.sohan.2024))
+
 - ⚡ Fun fact: I love to learn new technologies and make apps that help people!
-
----
-
-### 📊 GitHub Stats
-
-| Metric                 | Value |
-|-----------------------|-------|
-| Total Stars Earned    | 0     |
-| Total Commits (2025)  | 0     |
-| Total PRs            | 0     |
-| Total Issues         | 0     |
 
 ---
 
 ### Most Used Languages
 
 - Java ☕
+- Dart🛒
+- PHP🏁
 - C++ 🔥
-- HTML & CSS 🌐
-
 ---
 
 ### Connect with Me
