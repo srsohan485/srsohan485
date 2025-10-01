@@ -1,6 +1,6 @@
 ## Hello, I'm Sayedur Rahman Sohan! 👋
 
-### Android Developer | Java | Future Flutter Developer 🚀
+### Android Developer | Java | Flutter Developer 🚀
 
 - 🔭 I'm currently working on **Project Master Sohan** Series
 - 📚 I'm currently learning **Flutter & Android Development**
