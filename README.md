@@ -6,7 +6,7 @@
 - 📚 I'm currently learning **Java & Android Development**
 - 🤝 I'm looking to collaborate on **Android App Projects**
 - 💬 Ask me about **Android Development, Java, C++**
-- 🌐 How to reach me: [YouTube - Computer Concept](https://www.youtube.com/@ComputerConcepts) | [LinkedIn - Sayedur Rahman Sohan](https://www.linkedin.com/in/sayedur-rahman-sohan)
+- 🌐 How to reach me: [LinkedIn - Sayedur Rahman Sohan](https://www.linkedin.com/in/sohan-cse/)
 - ⚡ Fun fact: I love to learn new technologies and make apps that help people!
 
 ---
