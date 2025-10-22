@@ -19,6 +19,7 @@
 - Dart🛒
 - PHP🏁
 - C++ 🔥
+- Mysql🛒
 ---
 
 ### Connect with Me
