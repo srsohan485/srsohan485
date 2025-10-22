@@ -16,7 +16,7 @@
 ### Most Used Languages
 
 - Java ☕
-- Dart🛒
+- Dart🗑
 - PHP🏁
 - C++ 🔥
 - Mysql🛒
