@@ -7,7 +7,7 @@
 - 🤝 I'm looking to collaborate on **Android App Projects**
 - 💬 Ask me about **Android Development, Java,Flutter**
 - 🌐 How to reach me: [LinkedIn - Sayedur Rahman Sohan](https://www.linkedin.com/in/sohan-cse/)
-- [Facebook - Sayedur Rahman Sohan](https://www.facebook.com/sayedur.rahman.sohan.2024))
+- My Facebook Link: [Facebook - Sayedur Rahman Sohan](https://www.facebook.com/sayedur.rahman.sohan.2024))
 
 - ⚡ Fun fact: I love to learn new technologies and make apps that help people!
 
