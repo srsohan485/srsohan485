@@ -2,7 +2,7 @@
 
 ### Android Developer | Java | Flutter Developer 🚀
 
-- 🔭 I'm currently working on **Project Master Sohan** Series
+- 🔭 I'm currently working on **Flutter Froject** Series
 - 📚 I'm currently learning **Flutter & Android Development**
 - 🤝 I'm looking to collaborate on **Android App Projects**
 - 💬 Ask me about **Android Development, Java,Flutter**
@@ -18,8 +18,11 @@
 - Java ☕
 - Dart🗑
 - PHP🏁
+- JSON🎁
 - C++ 🔥
 - Mysql🛒
+- SQLite🎈
+- SQflite💊
 ---
 
 ### Connect with Me
