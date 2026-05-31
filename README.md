@@ -17,6 +17,7 @@
 
 - Java ☕
 - Dart🗑
+- Python🚀
 - PHP🏁
 - JSON🎁
 - C++ 🔥
